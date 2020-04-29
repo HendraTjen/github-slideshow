@@ -2,4 +2,4 @@
 layout: World
 title: "Hello World"
 ---
-Katagaki-Naomi
+Kaneki Ken
